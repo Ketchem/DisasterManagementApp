@@ -13,7 +13,7 @@ public class JDBCDemo {
             Class.forName("org.postgresql.Driver");
 
             // establish connection
-            String url = "jdbc:postgresql://localhost:5432/disastermngt";
+            String url = "jdbc:postgresql://192.168.86.120:5432/disastermngt";
             conn = DriverManager.getConnection(url, "postgres", "admin");
 
             // query the database
