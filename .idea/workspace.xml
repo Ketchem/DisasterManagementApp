@@ -6,18 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d92a8ca0-9f09-4c29-a274-b118bd8234f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5aecd094-52d8-4e35-a000-9309081793bd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5aecd094-52d8-4e35-a000-9309081793bd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/JDBCDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/JDBCDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/org/webproject/servlet/DBUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/org/webproject/servlet/DBUtility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/org/webproject/servlet/HttpServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab3_war_exploded/WEB-INF/classes/org/webproject/servlet/HttpServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JDBCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBCDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/webproject/servlet/DBUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/webproject/servlet/DBUtility.java" afterDir="false" />
-    </list>
+    <list default="true" id="d92a8ca0-9f09-4c29-a274-b118bd8234f9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -334,7 +323,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552085600412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552087091901" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -557,12 +546,12 @@
       <workItem from="1542325482787" duration="19656000" />
       <workItem from="1542756185682" duration="1303000" />
       <workItem from="1550956635456" duration="118000" />
-      <workItem from="1552084240437" duration="1281000" />
+      <workItem from="1552084240437" duration="1732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50243000" />
+    <option name="totallyTimeSpent" value="50694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,7 +566,7 @@
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.655481" visible="true" weight="0.14862682" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.655481" visible="true" weight="0.14862682" />
       <window_info id="Structure" order="1" sideWeight="0.34451902" side_tool="true" weight="0.14862682" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -587,7 +576,7 @@
       <window_info id="Web" order="7" sideWeight="0.34451902" side_tool="true" weight="0.14862682" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29160064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29160064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
